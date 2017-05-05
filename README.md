@@ -1,6 +1,6 @@
 # SmileMan
-Quan descargar la carpeta d'aquest projecte, pot ser no trobar les libreries, s'ha de cambiar "propierties" -> "Configuration Manager" -> "platform" a (Win32) i "Active solution platform" a (x86).
+Cuando descargar la carpeta de este proyecto, puede ser no encontrar las librerías, se debe cambiar "propierties" -> "Configuration Manager" -> "platform" en (Win32) y "Active solution platform" en (x86).
 
-Utilitzar el diferent geometries crear el dibuix. 
+Utilizar el diferente geometrías crear el dibujo.
 
-*Depèn de l'ordinador que ús, el moviment del núvol pot ser més ràpid o més lent.
+* Depende del ordenador que uso, el movimiento de la nube puede ser más rápido o más lento.
